@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I'm nav1n (Navin), I'm passionate about sharing knowledge, and believe in the motto "sharing is caring." Through Twitter and GitHub I'm trying to empower others in the cybersecurity community to enhance their skills and stay ahead of emerging threats.
+Hey there! I'm Logan Sensei, passionate about cybersecurity and committed to empowering others through knowledge sharing. Let's stay ahead of the curve together, mastering the art of defense in this dynamic field.
 
 Follow me on Twitter: 
 
