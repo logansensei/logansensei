@@ -3,7 +3,7 @@
 
 I'm nav1n (Navin), I'm passionate about sharing knowledge, and believe in the motto "sharing is caring." Through Twitter and GitHub I'm trying to empower others in the cybersecurity community to enhance their skills and stay ahead of emerging threats.
 
-Follow me on Twitter: @nav1n0x
+Follow me on Twitter: 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=logansensei&show_icons=true&theme=radical)
 
