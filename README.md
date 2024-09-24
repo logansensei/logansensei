@@ -16,7 +16,7 @@ Hack Stuff 🖥️<br>Code Stuff👨‍💻<br>Fitness 💪<br>Kaizen✍️
 ![](https://github-profile-trophy.vercel.app/?username=logansensei&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![](https://visitcount.itsvg.in/api?id=logansensei&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=logansensei&icon=8&color=8)](https://visitcount.itsvg.in)
